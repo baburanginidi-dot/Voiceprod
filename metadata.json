@@ -1,0 +1,7 @@
+{
+  "name": "Voice-First Learning Portal",
+  "description": "A premium, voice-driven educational interface featuring the Lumi avatar and Gemini Live API integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
